@@ -2,7 +2,7 @@
 
 A simple website in node js to accompany a blog post.
 
-## Setup ..
+## Setup 
 
 ```
 npm i
